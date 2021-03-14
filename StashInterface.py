@@ -335,7 +335,7 @@ class stash_interface:
                     id
                     name
                     }
-                  gallery
+                  galleries
                     {
                         id
                     }
